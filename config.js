@@ -4,7 +4,7 @@
 
 const CONFIG = {
     // Your Valentine's name that will appear in the title
-    // Example: "Jade", "Sarah", "Mike"
+ 
     valentineName: "Elena",
 
     // The title that appears in the browser tab
@@ -14,8 +14,8 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🐶','🐾','🦴','✨']                       // Cute bear emojis
+        hearts: ['❤️', '💖', '💝', '💗', '💓', '💞', ✨', '🌹','🌙'],  // Heart emojis
+        bears: ['🐶','🐾','🦴','💫']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
+        title: "Yeeee! I'm the luckiest person in the world! 🎉💝💖💝💓",
         message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "🎁💖🤗💝💋❤️💕✨🌹"  // These will bounce around
     },
 
     // Color scheme for the website
